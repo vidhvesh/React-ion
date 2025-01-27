@@ -30,3 +30,6 @@ git push origin main  //pushes the code/files to the remote repo/ github repo we
 ### BABEL (a package managed by Parcel)
 - Babel is a JavaScript Compiler, many also call it as "Transpiler".
 - It transpiles the JSX code into JS Engine understandable code.
+
+- config driven ui
+- wherever we use .map or looping we should use key.
